@@ -1,1 +1,11 @@
-La entrega està buida. Haurem de mirar perquè la entreguis de nou.
+Exercici 1: 2/2
+Exercici 2: 1.85/2 
+Només m'has calculat les diferències de les llargades del nom entre un dels noms.
+
+Exercici 3: 2/2
+Exercici 4: 2/2
+
+Jupyter: 1/1
+Github: 0.75/1
+
+Nota final: 9.65/10
